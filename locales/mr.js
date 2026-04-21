@@ -4,7 +4,7 @@ const mr = {
     // Menu Items
     "github": "गिटहब",
     "feedback": "प्रतिसाद",
-    
+
     // Section titles
     "personalizationSectionTitle": "वैयक्तिकरण",
     "clockSectionTitle": "घड्याळ",
@@ -12,7 +12,7 @@ const mr = {
     "weatherSectionTitle": "हवामान",
     "appearanceSectionTitle": "रंगरूप",
     "settingsSectionTitle": "सेटिंग्ज",
-    
+
     // Shortcuts
     "shortcutsText": "शॉर्टकट्स",
     "enableShortcutsText": "जतन केलेले शॉर्टकट्स दाखवा",
@@ -157,12 +157,12 @@ const mr = {
     "firefly": "अडोबी फायरफ्लाय",
     "aiSettingsIntro": "कोणती AI साधने दाखवायची, ते निवडा.",
     "resetAISettingsBtn": "रीसेट करा",
-    
+
     // Theme
     "lightThemed": "लाइट",
     "darkThemed": "डार्क",
     "systemThemed": "सिस्टम",
-    
+
     // Wallpaper and settings
     "uploadWallpaperText": "वॉलपेपर सेट करा",
     "rangColor": "रंग निवडा",
@@ -172,7 +172,7 @@ const mr = {
     "restoreText": "पुनर्संचयित करा",
     "resetsettings": "सेटिंग्ज रीसेट करा",
     "menuCloseText": "बंद करा",
-    
+
     // Tips
     "switchSearchModes": "शोधण्याचा मोड बदला",
     "switchSearchModesInfo": "मोड बदलण्यासाठी ‘यासह शोधा’ वर क्लिक करा",
@@ -186,11 +186,11 @@ const mr = {
     "updateFirefoxHomepage": "होमपेज अपडेट करा",
     "updateFirefoxHomepageInfo": 'आपल्या होमपेजला सुद्धा नवीन टॅबाप्रमाणे बदलण्यासाठी, <a href="https://github.com/prem-k-r/MaterialYouNewTab#-firefox\" target="_blank">या लिंक</a> वर जा आणि दिलेल्या सूचनांचे पालन करा.',
     "dontShowTips": "हे पुन्हा दाखवू नका",
-    
+
     // Footer Toast
     "footerToastTitle": "खाली एक बॅनर दिसतोय?",
     "footerToastMessage": "ते लपवण्यासाठी, त्यावर राइट-क्लिक करा आणि 'नवीन टॅबा पेजवर लपवा' निवडा",
-    
+
     // Dialog boxes (alerts)
     "okText": "ठीक आहे",
     "yesText": "होय",
